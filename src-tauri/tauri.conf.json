@@ -1,11 +1,11 @@
 {
-  "productName": "WeRead",
-  "identifier": "com.pake.weread",
+  "productName": "Netflix",
+  "identifier": "com.pake.netflix",
   "version": "1.0.0",
   "app": {
     "withGlobalTauri": true,
     "trayIcon": {
-      "iconPath": "png/weread_512.png",
+      "iconPath": "png/netflix_512.png",
       "iconAsTemplate": false,
       "id": "pake-tray"
     }
