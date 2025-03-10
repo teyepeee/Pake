@@ -1,14 +1,8 @@
 [
   {
-    "name": "netflix",
-    "title": "Netflix",
-    "name_zh": "Netflix",
-    "url": "https://netflix.com/"
-  },
-  {
-    "name": "admin-iwata",
-    "title": "Admin-Iwata",
-    "name_zh": "Admin-Iwata",
-    "url": "https://admin.iwata.id/"
+    "name": "sheets",
+    "title": "Sheets",
+    "name_zh": "Sheets",
+    "url": "https://docs.google.com/spreadsheets/"
   }
 ]
